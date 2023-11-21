@@ -5,7 +5,7 @@ My first repository
 ![Series/Movie Poster]([https://example.com/poster-image.jpg](https://i.pinimg.com/564x/44/55/d9/4455d96357fb041d1cf3c8a5264ed593.jpg))
 
 ## Synopsis
-Provide a brief overview of the series/movie here. Mention the plot, genre, and key elements.
+A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
 
 ### Main Characters
 - **Jack Dawson**: Jack is the epitome of youth..
